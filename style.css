@@ -1,0 +1,117 @@
+body{
+    padding: 5px;
+    margin: auto;
+    background: #FFFFFF;
+}
+
+*{
+    font-family: 'Inter',serif;
+}
+
+.top{
+    text-align: center; 
+}
+
+.text_1{
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 26px;
+    color: #282828;
+}
+.text_2{
+    font-style: normal;
+    font-weight: 600;
+    font-size: 54px;
+    line-height: 62px;
+    letter-spacing: -1px;
+    color: #282828;
+}
+
+.text_3 {
+        font-size: 20px;
+        color: #5F6980;
+        line-height: 35px;
+        max-width: 750px;
+        margin: auto;
+}
+
+.container {
+    display: flex;
+    padding: 0px 0px 16px;
+    gap: 16px;    
+}
+
+.block_1 {   
+    margin: 10px;
+    padding: 10px;
+    background: #FFFFFF;
+    border: 1px solid #EAECF0;
+}
+
+.person{
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 30px;
+    color: #282828;
+}
+
+.job{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 22px;
+    color: #3E3E59;
+}
+
+.text{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 22px;
+    color: #5F6980;
+}
+
+
+.info {
+    display: flex;
+    width: 1654px;
+    height: 512px;
+    background: rgba(83, 83, 83, 0.33);
+}
+
+.info > img {
+    height: 64px;
+    width: 100px;
+    left: 164px;
+    top: 108px;
+    border-radius: 0px;
+}
+
+.footer_1 {
+    padding-left: 5%;
+    padding-top: 10%;
+}
+
+.footer_2{
+    padding-left: 10%;
+    padding-top: 10%;
+}
+
+.footer_4 > button{
+    width: 80px;
+    height: 45px;
+    background: #054A68;
+    color: #EAECF0;
+}
+
+.text_4 {
+    font-family: Inter, serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 17px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #535353;
+}
+.logos {
+    padding-top: 4%;
+}
